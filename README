@@ -1,0 +1,6 @@
+Info-Searcher
+---------------------------
+It's a project about building a brower to search Information.
+And the information via google that we can filter and show appropreate solution.
+
+first we use yahoo cas api to seperate chinese sentence
